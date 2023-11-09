@@ -1,0 +1,7 @@
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 04\ConsAppDay4Assignmnet4\ConsAppDay4Assignmnet4\bin\Debug\ConsAppDay4Assignmnet4.exe.config
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 04\ConsAppDay4Assignmnet4\ConsAppDay4Assignmnet4\bin\Debug\ConsAppDay4Assignmnet4.exe
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 04\ConsAppDay4Assignmnet4\ConsAppDay4Assignmnet4\bin\Debug\ConsAppDay4Assignmnet4.pdb
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 04\ConsAppDay4Assignmnet4\ConsAppDay4Assignmnet4\obj\Debug\ConsAppDay4Assignmnet4.csproj.AssemblyReference.cache
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 04\ConsAppDay4Assignmnet4\ConsAppDay4Assignmnet4\obj\Debug\ConsAppDay4Assignmnet4.csproj.CoreCompileInputs.cache
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 04\ConsAppDay4Assignmnet4\ConsAppDay4Assignmnet4\obj\Debug\ConsAppDay4Assignmnet4.exe
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 04\ConsAppDay4Assignmnet4\ConsAppDay4Assignmnet4\obj\Debug\ConsAppDay4Assignmnet4.pdb
